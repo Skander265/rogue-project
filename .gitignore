@@ -1,0 +1,31 @@
+# Godot specific
+/.godot/
+/.export/
+/mono/
+
+# Rider / Visual Studio
+.idea/
+.vscode/
+.vs/
+*.user
+*.userprefs
+*.csproj.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backups & temps
+*.tmp
+*.bak
+*.import
