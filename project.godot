@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="rogue-project"
-config/features=PackedStringArray("4.5", "Forward Plus")
+config/name="RogueProject"
+config/features=PackedStringArray("4.5", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
 [dotnet]

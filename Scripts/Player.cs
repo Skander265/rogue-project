@@ -1,6 +1,7 @@
 using Godot;
 using System;
 
+namespace RogueProject.Scripts;
 public partial class Player : Node2D
 {
 	// Called when the node enters the scene tree for the first time.
